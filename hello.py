@@ -1,4 +1,5 @@
-print ('Hello world!')
-print ('Hello!')
-print ('Bonjour')
-print ('Hola')
+print ('Hello world;')
+print ('Hello;')
+print ('Bonjour;')
+print ('Hola;')
+
